@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnonymousVikram
-- 👀 I’m interested in Technology in general!
+- 👀 I’m a Software Engineer specializing in Data Science and Machine Learning.
 - 🌱 I’m currently attending Harvey Mudd College for Engineering/Computer Science
 - 📫 How to reach me: vkrishna@hmc.edu
 
