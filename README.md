@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vkrishna@hmc.edu**
 
-- 📄 Know about my experiences [https://github.com/AnonymousVikram/AnonymousVikram/blob/93c9686f12cf20cb893b41235a9c629b9d698324/KRISHNA%2C%20Vikram%20-%20Resume%201_24.pdf](https://github.com/AnonymousVikram/AnonymousVikram/blob/93c9686f12cf20cb893b41235a9c629b9d698324/KRISHNA%2C%20Vikram%20-%20Resume%201_24.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/AnonymousVikram/AnonymousVikram/blob/93c9686f12cf20cb893b41235a9c629b9d698324/KRISHNA%2C%20Vikram%20-%20Resume%201_24.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
