@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vikram Krishna</h1>
-<h3 align="center">A passionate backend developer studying at Harvey Mudd College</h3>
+<h3 align="center">A passionate Hardware Enginneer studying at Harvey Mudd College</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymousvikram&label=Profile%20views&color=0e75b6&style=flat" alt="anonymousvikram" /> </p>
 
-- 🔭 I’m currently working on **implementing LSTMs to predict future stock prices**
+- 🔭 I’m currently working on **developing a superscalar version of the [Core-V Wally Processor](https://github.com/openhwgroup/cvw)**
 
-- 🌱 I’m currently learning **MATLAB, along with advanced data post-processing techniques for sensor measurements**
+- 🌱 I’m currently learning **Computer Systems**
 
-- 💬 Ask me about **designing machine learning models with low-end hardware in mind**
+- 💬 Ask me about **designing performant computational accelerators, such as this [FPGA-Based Edge Detection](https://github.com/troyrkaufman/e155_edge_detection_hardware_accelerator)**
 
-- 📫 How to reach me **vkrishna@hmc.edu**
-
-- 📄 Know about my experiences [Resume](https://github.com/AnonymousVikram/AnonymousVikram/blob/93c9686f12cf20cb893b41235a9c629b9d698324/KRISHNA%2C%20Vikram%20-%20Resume%201_24.pdf)
+- 📫 How to reach me **[vkrishna@hmc.edu](mailto:vkrishna@hmc.edu)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
